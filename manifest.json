@@ -1,0 +1,26 @@
+{
+    "name": "Maba Landscape", 
+    "short_name": "Maba Landscape", 
+    "start_url": "https://www.mabalandscape.com/", 
+    "background_color": "#FFFFFF", 
+    "theme_color": "#FFFFFF", 
+    "display": "standalone", 
+    "icons": [
+        {
+            "src": "img/maba_logo_192x192.png", 
+            "sizes": "192x192", 
+            "type": "image/png"
+        }, 
+        {
+            "src": "img/maba_logo_512x512.png", 
+            "sizes": "512x512", 
+            "type": "image/png"
+        },
+        {
+            "src": "img/maba_logo_maskable.png", 
+            "sizes": "320x320", 
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
